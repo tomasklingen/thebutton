@@ -1,0 +1,15 @@
+{
+  "name": "TheButton-monitor",
+  "version": "0.0.1",
+  "description": "/r/thebutton monitor",
+  "main": "app.js",
+  "dependencies": {
+    "faye-websocket": "~0.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Klingen",
+  "license": "MIT"
+}
